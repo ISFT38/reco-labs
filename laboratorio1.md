@@ -5,10 +5,6 @@
 2. Comprender la estructura de una red básica.
 3. Identificar las capas del modelo OSI en los paquetes capturados.
 
-#### **Requisitos Previos**
-- Computadora con GNS3 y Wireshark instalados.
-- Conocimientos básicos de redes.
-
 #### **Parte 1: Configuración del Entorno**
 
 ##### **Instalación de GNS3 y Wireshark**
