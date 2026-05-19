@@ -14,6 +14,7 @@
 # Requisitos
 
 1. GNS3 instalado con soporte para switches Cisco IOSvL2, IOU/IOL o similar.
+> https://gns3.com/cisco-iosvl2
 2. Wireshark instalado.
 3. Conocimiento básico de switching Ethernet y VLANs.
 4. Conocimientos básicos sobre comandos Cisco IOS.
