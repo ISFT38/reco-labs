@@ -1,16 +1,10 @@
 # Laboratorio práctico: introducción a Apache Kafka desde consola
 
-
-
-Nivel inicial – intermedio
-
 Duración estimada: 90 minutos
-
-
 
 ## 1. Objetivos
 
-Al finalizar el laboratorio, los alumnos deberían poder:
+Al finalizar el laboratorio, deberían poder:
 
 - Comprender los conceptos de broker, topic, producer y consumer.
 - Levantar una instancia de Kafka.
@@ -45,7 +39,7 @@ Consumer A Grupo de consumo
 
 Consumer B Grupo de consumo
 
-Utilizaremos Docker para no tener que instalar Kafka directamente en las computadoras de los alumnos.
+Utilizaremos Docker para no tener que instalar Kafka de forma nativa.
 
 ## 3. Preparación del entorno
 
